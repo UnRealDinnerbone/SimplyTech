@@ -1,0 +1,9 @@
+{
+  "type": "simplytech:extruder",
+  "input": {
+    "item": "minecraft:iron_ore"
+  },
+  "output": "minecraft:iron_ingot",
+  "count": 2,
+  "energy": 1000
+}

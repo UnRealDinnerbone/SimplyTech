@@ -1,0 +1,9 @@
+{
+  "type": "simplytech:food_processor",
+  "input": {
+    "item": "minecraft:dried_kelp"
+  },
+  "output": "simplytech:compost",
+  "count": 1,
+  "energy": 1500
+}

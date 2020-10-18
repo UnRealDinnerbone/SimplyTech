@@ -1,0 +1,9 @@
+{
+  "type": "simplytech:extruder",
+  "input": {
+    "item": "minecraft:coal_ore"
+  },
+  "output": "minecraft:coal",
+  "count": 2,
+  "energy": 1000
+}

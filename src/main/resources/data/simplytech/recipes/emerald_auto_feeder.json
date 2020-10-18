@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MBM",
+    "MGM",
+    " M "
+  ],
+  "key": {
+    "M": {
+      "tag": "forge:gems/emerald"
+    },
+    "G": {
+      "tag": "forge:glass"
+    },
+    "B": {
+      "item": "minecraft:bucket"
+    }
+  },
+  "result": {
+    "item": "simplytech:emerald_auto_feeder"
+  }
+}

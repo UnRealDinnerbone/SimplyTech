@@ -1,0 +1,9 @@
+{
+  "type": "simplytech:extruder",
+  "input": {
+    "item": "minecraft:nether_quartz_ore"
+  },
+  "output": "minecraft:quartz",
+  "count": 2,
+  "energy": 1000
+}

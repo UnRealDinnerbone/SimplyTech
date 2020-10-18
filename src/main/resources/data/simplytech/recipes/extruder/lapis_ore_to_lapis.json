@@ -1,0 +1,9 @@
+{
+  "type": "simplytech:extruder",
+  "input": {
+    "item": "minecraft:lapis_ore"
+  },
+  "output": "minecraft:lapis_lazuli",
+  "count": 13,
+  "energy": 1000
+}

@@ -1,0 +1,9 @@
+{
+  "type": "simplytech:food_processor",
+  "input": {
+    "item": "minecraft:rotten_flesh"
+  },
+  "output": "simplytech:compost",
+  "count": 4,
+  "energy": 500
+}

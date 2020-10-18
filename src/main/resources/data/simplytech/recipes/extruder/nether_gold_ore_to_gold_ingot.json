@@ -1,0 +1,9 @@
+{
+  "type": "simplytech:extruder",
+  "input": {
+    "item": "minecraft:nether_gold_ore"
+  },
+  "output": "minecraft:gold_ingot",
+  "count": 1,
+  "energy": 1000
+}

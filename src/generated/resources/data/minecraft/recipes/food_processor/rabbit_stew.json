@@ -1,0 +1,9 @@
+{
+  "type": "simplytech:food_processor",
+  "input": {
+    "item": "minecraft:rabbit_stew"
+  },
+  "output": "simplytech:compost",
+  "count": 10,
+  "energy": 3000
+}

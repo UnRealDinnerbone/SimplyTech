@@ -1,0 +1,9 @@
+{
+  "type": "simplytech:extruder",
+  "input": {
+    "item": "minecraft:emerald_ore"
+  },
+  "output": "minecraft:emerald",
+  "count": 2,
+  "energy": 1000
+}

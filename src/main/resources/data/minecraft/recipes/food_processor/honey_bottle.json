@@ -1,0 +1,9 @@
+{
+  "type": "simplytech:food_processor",
+  "input": {
+    "item": "minecraft:honey_bottle"
+  },
+  "output": "simplytech:compost",
+  "count": 6,
+  "energy": 500
+}

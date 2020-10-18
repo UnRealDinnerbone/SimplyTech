@@ -1,0 +1,9 @@
+{
+  "type": "simplytech:food_processor",
+  "input": {
+    "item": "minecraft:enchanted_golden_apple"
+  },
+  "output": "simplytech:compost",
+  "count": 4,
+  "energy": 6000
+}

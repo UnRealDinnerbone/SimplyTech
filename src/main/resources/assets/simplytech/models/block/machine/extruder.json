@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "north": "simplytech:block/machine/extruder"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "north": {
+          "texture": "#north",
+          "cullface": "north"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "down": "simplytech:block/machine/transfer/input_2"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "down": {
+          "texture": "#down",
+          "cullface": "down"
+        }
+      }
+    }
+  ]
+}

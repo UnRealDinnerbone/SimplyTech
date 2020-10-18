@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "south": "simplytech:block/machine/transfer/input"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "south": {
+          "texture": "#south",
+          "cullface": "south"
+        }
+      }
+    }
+  ]
+}
